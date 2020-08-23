@@ -1,0 +1,33 @@
+---
+- name: Run apt-get update
+  command: apt-get update
+
+- name: apt install apt-transport-https
+  command: sudo apt install apt-transport-https ca-certificates curl gnupg2 software-properties-common -y
+
+- name: Download Docker Key
+  apt_key:
+      url: https://download.docker.com/linux/debian/gpg
+      state: present
+  ignore_errors: true
+
+- name: Set Docker Repo
+  apt_repository:
+      repo: deb [arch=amd64] https://download.docker.com/linux/debian stretch stable
+      state: present
+
+- name: Run apt-get update
+  command: apt-get update
+
+- name: Set Docker Policy
+  command: apt-cache policy docker-ce
+  ignore_errors: true
+
+- name: Install Docker
+  apt:
+      name: "docker-ce"
+      state: latest
+  ignore_errors: true
+
+- name: Starting Service
+  command: sudo docker run -d -p 8080:8080 shoubhikghosh83/springbootapp:latest

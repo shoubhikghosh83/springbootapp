@@ -1,0 +1,5 @@
+---
+# Variables defined for europe-west2-c
+name_zonea: myinstance1
+zone: europe-west2-c
+region: europe-west2

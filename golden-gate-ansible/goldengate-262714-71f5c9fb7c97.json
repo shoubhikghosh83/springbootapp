@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "goldengate-262714",
+  "private_key_id": "53ff7878cf08e3f9a29a7281c471dd83d47bda74",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDttAnqebciy0AC\nUgM8fa/SXmlc62uI6KLRwZ5ZJtEuTsNSobW9Bs3aak+I3EYxiIB3JkuYRbcreoTI\ndx0FvM/CT8TlzyIhOMVRi3YdihK7U9bd4fhdiacLKDob0VO8LgBw6EaCgs4MZG1t\nlGhrKA5MYJH2w29rrKzu5xetGtNaD3RNisPthUIZy309l+fN9Kd2O1UMwkGrsPbq\ndpKPhv3lQ3zV3qIrnub+D3tOioSVGoTMWbnWv7gY5j1AesgVNJNGeSPjCMY3VaqX\nSafEkJJoPazy7ie/esC1DI8N+RGg+QHjUp0B8olfs4p7FNwP+expSrL+gZPZqRmz\nOgXrauabAgMBAAECggEAKDuLXBz60tBNBreD5bauTjB9q+UK3/LkMBWR7CwGRsy9\nAZzuSk6/A+Nvj84csWCVwdUBAYZ3QMwtclK63lA9Z/mhbXY4JCBcQXeV590JW5yO\npyKKq6ZTWC+YWkH9ZsHwgCvIV2m1X2KWJPB0FgMDHIlR207r6nEhGhSSLNH4COt2\nM1Voo7PWqs9SrV6tA/RgpgydpGCVBMTIgQrTkvGfJMOcosPhBRXHNl/KOMKuPFtx\nCN4bVZqOTLJc+RPkEwFOflBSkQ3ozZUpvkj2zJPwGya27lwh/MZLJ9O2WORdM6sx\nyB75aasJ4e7mrmDolqDW4P3jt9gaOYisL0oZoY8f6QKBgQD6kaItTWvH6bDFytWv\nEJwmZrjztu8Qhzp0EIX9lIEhMrqmFYRnpvEJUQTr5rOpYQAoKEbhKNcYRIndwU/1\nODYiOV0PlXUatIAV0lZfaIo0uMVjirLuEgi2Da9Py9n+gA19jMNInlC4138vZW9o\nSxKMo+1w4ZXWdnRTPLHPVjV8IwKBgQDy2wQcPJitpl8Ep0oB77SwgB2Rd0iqK5w/\n/xmurxbwM5Wgczwat3rd5ES3V5IyhVALmsf8ckamJbKjG2bBZSYx0w9AFgnh0637\nb5nFKAXvTFP+YHDaIk8u06e9sTqMNcMtNXt1SNbBfzhqPaO42rEU1qTd0bwXoirG\n8tPAYb+3KQKBgQC34+OSvcwI9l+OeXLjPRxsLl00N6AxkBz9Cxda5/7wv0suEoKO\nk304KiajfjeCajb0QcLrAc8B92L6xSGKRQutiE3c3wIHbErIOQq8kHtFgAkVKbhx\ncfjEqzxrIp9E4POFnaXACLgTP8wOm7HsZ5QgdToP6u7Nazep0tRn5svv4wKBgDBJ\nuiR/LACDLyt2s/F0nyHlJ3vwEuO7LiNPbuTb7ZyvNRYlM5NAXk7Wf49Q+0HOXh8g\nlJkug7uvjTh/T0wu94w6ojKk7ywW8eYnx5R7I8r0C1NuC6Jj5giyjwzZu4F7gyZv\nFvA4HnN0/1uoi/BKk6FIGJn+hP7SAN10FQSQqxUZAoGBAJVKP2T68bQgte41F4qc\nFLGh6DJsr302X3J1Q85teLWeZkN498b2aOu9t7Jk8cpuw9TrAkYUdL3EYRlX8i73\n4PdyqMrAPmRDtrfPDLRfogiFFH7/VTUg6qcS82AIPsdPywQ7BTd3vbo+hFrsb6E3\nBg6LA8RApyZdbxayvWt7uRZY\n-----END PRIVATE KEY-----\n",
+  "client_email": "shoubhik-ansible@goldengate-262714.iam.gserviceaccount.com",
+  "client_id": "116131267115140939387",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/shoubhik-ansible%40goldengate-262714.iam.gserviceaccount.com"
+}
